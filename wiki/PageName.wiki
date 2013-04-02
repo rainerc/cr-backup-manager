@@ -1,4 +1,5 @@
 #summary Revision log of the Backup Manager
+#labels Featured
 
 ==Version 0.1.1==
 <pre>
